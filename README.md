@@ -1,23 +1,17 @@
-Great — with your added details (GUI + full feature list), here is a **polished, recruiter-ready README** specifically tailored for your **DormEase — Hostel Management System** project.
-
-You can paste this directly into your `README.md`.
-
----
-
 # **📌 DormEase — Hostel Management System**
 
-DormEase is a GUI-based Java application designed to simplify and automate hostel administration tasks. It provides dedicated modules for students, wardens, and mess administrators, ensuring smooth hostel operations, improved transparency, and efficient data handling.
+DormEase is a GUI-based Java application built to streamline and automate hostel operations. It offers dedicated dashboards for students, wardens, and mess administrators, enabling efficient management of daily activities. The system focuses on reducing food wastage through a meal-confirmation mechanism where students confirm meal attendance, and fines are issued for unconfirmed absences. It also supports student enrollment, attendance tracking, room allocation, and provides intuitive panels for both students and administrators to simplify hostel management.
 
 ---
 
 ## **🚀 Tech Stack**
 
-* **Java**
-* **Swing / AWT** (GUI)
-* **Maven** (build system)
-* **OOP-based modular architecture**
-* *(Add your database if you used one — else I’ll keep it generic)*
-
+* Java
+* Spring Boot
+* MySQL
+* JavaServerPages (JSP)
+* HTML
+* CSS
 ---
 
 ## **✨ Key Features**
@@ -100,26 +94,32 @@ Inside your IDE, run the **main class** from the `src/main/java` directory.
 
 ---
 
-## **▶️ Usage Guide**
+## ✨ Features
 
-### 🔹 Student Panel
+### 🧑‍🎓 Student Module
+- Student enrollment and profile management  
+- View room allocation and hostel details  
+- Weekend meal confirmation to reduce food wastage  
+- View fines, fee status, and hostel notices  
+- Simple and responsive student dashboard  
 
-* Register/login
-* Check hostel details
-* Confirm meals
-* View fines or fee status
+### 🧑‍🏫 Warden Module
+- Mark and monitor daily student attendance  
+- Manage room allocations and student records  
+- Create and publish hostel notices  
+- Access a dedicated admin dashboard for quick actions  
 
-### 🔹 Warden Panel
+### 🍽️ Mess Administration
+- Track daily and weekend meal attendance  
+- Auto-generate fines for unconfirmed weekend meals  
+- Reduce food wastage through pre-meal confirmation  
+- View mess-related statistics and attendance summaries  
 
-* Mark attendance
-* Publish notices
-* Manage student records
-
-### 🔹 Mess Panel
-
-* Track meal attendance
-* Generate fine list
-* View weekend confirmations
+### ⚙️ System Utilities
+- Clean GUI built using Java Swing  
+- Modular, maintainable object-oriented structure  
+- Easy to extend with additional admin/student tools  
+- Ready for future integration with a database or web interface  
 
 ---
 
