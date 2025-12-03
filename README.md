@@ -64,7 +64,18 @@ DormEase/
 ---
 
 ## **🖥️ GUI Preview**
-
+<img src="GUI images/hms1.png" width="600">
+<img src="GUI images/hms2.png" width="600">
+<img src="GUI images/hms3.png" width="600">
+<img src="GUI images/hms4.png" width="600">
+<img src="GUI images/hms5.png" width="600">
+<img src="GUI images/hms6.png" width="600">
+<img src="GUI images/hms7.png" width="600">
+<img src="GUI images/hms8.png" width="600">
+<img src="GUI images/hms9.png" width="600">
+<img src="GUI images/hms10.png" width="600">
+<img src="GUI images/hms11.png" width="600">
+<img src="GUI images/hms12.png" width="600">
 
 
 ## **🛠️ Installation & Setup**
